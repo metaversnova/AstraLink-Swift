@@ -1,6 +1,6 @@
 # Guide and Info's about AstraLink!
 <h1 align="center"> Astra Link Information Logger  </h1> 
-<p align= "center"> <kbd> https://imgur.com/pL3eguv <img  src=""width="420"> </kbd><br><br>
+https://imgur.com/pL3eguv
 
 
 
@@ -127,6 +127,9 @@
  
 -   [Python](https://www.python.org/downloads/release/python-3109/)
 -   [Git](https://git-scm.com/download/win)
+
+
+
 
 
     
