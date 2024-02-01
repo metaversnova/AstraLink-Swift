@@ -1,6 +1,6 @@
 # Guide and Info's about AstraLink!
 <h1 align="center"> Astra Link Information Logger  </h1> 
-<img src="img/banner.png" width="100%" height="100%" />
+<p align= "center"> <kbd> <img  src="https://i.imgur.com/JBon1N6.png"width="1000"> </kbd><br><br>
 
 
 
@@ -144,7 +144,7 @@
 </div>
  
  
-                                                      ⬇ Issues? Volunteer Contributor? ⬇
+                                                           ⬇ Issues? Contributor? ⬇
 
 
 * View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
@@ -152,7 +152,7 @@
 * Reach out to me at any linked platform on https://about.me/metaversenova
 
 
-                                                   ⬇ Educational Purposes Disclosure ⬇
+                                                    ⬇ Educational Purposes Disclosure ⬇
 
 
 - <bold> This tool is a tool that should be used only for educational purposes. I do not hold any responsibility for any misuse! </bold>
