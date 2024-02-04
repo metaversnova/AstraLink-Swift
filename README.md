@@ -121,7 +121,7 @@
    - Phantom 
 
 
-                                                           ⬇ Instructions ⬇
+                                                         ⬇ Instructions ⬇
 
 
 1. [Download source code zip](https://github.com/metaversnova/AstraLink/archive/refs/heads/main.zip)
@@ -144,7 +144,7 @@
 </div>
  
  
-                                                       ⬇ Issues? Contributor? ⬇
+                                                        ⬇ Issues? Contributor? ⬇
 
 
 * View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
