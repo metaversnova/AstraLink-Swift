@@ -140,7 +140,7 @@
 </div>
  
  
-                                           ⬇ Issues? Contributor? ⬇
+                                            ⬇ Issues? Contributor? ⬇
 
 
 * View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
