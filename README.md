@@ -1,5 +1,5 @@
-# Guide and Info's about AstraLink!
-<h1 align="center"> Astra Link Information Logger  </h1> 
+# Guide and Info's about AstraLink Professional!
+<h1 align="center"> Astra Link Professional  </h1> 
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/JBon1N6.png"width="1000"> </kbd><br><br>
 
 
@@ -27,7 +27,7 @@
 
 
 -   Discord Injection
-    - Sends token, password, email and billing on login or when the account's data get's modified
+    - Sends the account's data when triggered
 
 
 -   Client's Data (Coming Soon WIP)
