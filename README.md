@@ -50,7 +50,7 @@
 
 
  -   Authentication Stealer
-    -   Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA codes
+    -   Grabs Tokens, Keys, Backup Codes and Tokens
 
 
 -   General Functions
