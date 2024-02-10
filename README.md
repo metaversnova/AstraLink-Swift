@@ -109,7 +109,7 @@
     - Credit/Debit Cards
     - Integrated Plugins Data
 
-- Logs Crypto Wallets:
+- Logs Web Crypto Wallets:
 
    - Binance
    - Coinbase
