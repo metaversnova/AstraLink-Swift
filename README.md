@@ -59,7 +59,7 @@
     -   Instant visual log (screenshot)
 
 
--   Browser Data
+-   Supported Browsers
     -   Google Chrome Profiles
     -   Chromium
     -   Chrome
@@ -82,7 +82,6 @@
 
 
 - Logs Cookies and Passwords from websites such as
-    
     - Binance
     - Crypto
     - Crunchyroll
@@ -99,7 +98,6 @@
     
 
 - Logs Browser Data such as
-   
     - Cookies
     - Passwords
     - Bookmarks
@@ -110,7 +108,6 @@
     - Integrated Plugins Data
 
 - Logs Web Crypto Wallets:
-
    - Binance
    - Coinbase
    - Bitcoin
@@ -133,11 +130,6 @@
 -   [Git](https://git-scm.com/download/win)
 
 
-
-
-
-    
-</div>
  
  
                                             ⬇ Issues? Contributor? ⬇
