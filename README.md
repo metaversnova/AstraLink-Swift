@@ -146,7 +146,7 @@
 - <bold> This tool is a tool that should be used only for educational purposes. I do not hold any responsibility for any misuse! </bold>
 
 
-- View the [License](LICENSE.md) for more information about AstraLink being licensed under the <a href="https://mit-license.org/">MIT License</a>.
+- View the [License](LICENSE.md) for more information about AstraLink ’’Swift’’ being licensed under the <a href="https://mit-license.org/">MIT License</a>.
 
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
